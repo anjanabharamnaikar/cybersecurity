@@ -4,6 +4,7 @@ numpy
 pymongo
 certifi
 requests
+pymongo[srv]==3.6
 
 ##-e .
 
