@@ -56,7 +56,6 @@ DATA_TRANSFORMATION_IMPUTER_PARAMS: dict = {
     "weights": "uniform",
 }
 DATA_TRANSFORMATION_TRAIN_FILE_PATH: str = "train.npy"
-
 DATA_TRANSFORMATION_TEST_FILE_PATH: str = "test.npy"
 
 
