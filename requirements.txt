@@ -10,5 +10,8 @@ pyyaml
 dill
 mlflow
 dagshub
+fastapi
+uvicorn
+joblib
 ##-e .
 
